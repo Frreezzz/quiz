@@ -17,17 +17,23 @@ ln(1) =
 
 
 Kategoria "Filmy", pytania dla ...:
-Rok premiery pierwszego filmu "Shrek" to: 2001
+Rok premiery pierwszego filmu "Shrek" to: 
+2001
 
-Tytuł ostatniego filmu z Indianą Jonesem to: Indiana Jones i Artefakt Przeznaczenia
+Tytuł ostatniego filmu z Indianą Jonesem to:
+ Indiana Jones i Artefakt Przeznaczenia
 
-Główną rolę w "Piraci z Karaibów: Klątwa Czarnej Perły" zagrał: Johny Deep
+Główną rolę w "Piraci z Karaibów: Klątwa Czarnej Perły" zagrał:
+ Johny Deep
 
-"Madagascar 3", do którego miasta poleciały Pingwiny, aby grać w kasynie: Monte Carlo
+"Madagascar 3", do którego miasta poleciały Pingwiny, aby grać w kasynie:
+ Monte Carlo
 
-Nazwa wyspy, na której toczyła się akcja pierwszej części Parku Jurajskiego: Isla Nublar
+Nazwa wyspy, na której toczyła się akcja pierwszej części Parku Jurajskiego:
+ Isla Nublar
 
-Film z 1988r., w którym aby przyzwać lub przegonić głównego bohatera, należało trzykrotnie wymówić jego imię to: BeetleJuice po polsku Sok z chrząszcza
+Film z 1988r., w którym aby przyzwać lub przegonić głównego bohatera, należało trzykrotnie wymówić jego imię to:
+ BeetleJuice po polsku Sok z żuka
 
 
 
