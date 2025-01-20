@@ -1,7 +1,7 @@
 Narzędzia pracy zespołowej (NPZ) – quiz
 
 
-Kategoria "Matematyka", pytania dla ...:
+Kategoria "Matematyka", pytania dla anonim:
 20 + 4 * 4 =
 
 sin²α + cos²α =
@@ -16,7 +16,7 @@ ln(1) =
 
 
 
-Kategoria "Filmy", pytania dla ...:
+Kategoria "Filmy", pytania dla kacper:
 Rok premiery pierwszego filmu "Shrek" to:
 
 Tytuł ostatniego filmu z Indianą Jonesem to:
@@ -31,7 +31,7 @@ Film z 1988r., w którym aby przyzwać lub przegonić głównego bohatera, nale�
 
 
 
-Kategoria "Geografia", pytania dla ...:
+Kategoria "Geografia", pytania dla bartek:
 Najdłuższa rzeka w Polsce:
 
 Stan w północno-zachodniej części Ameryki Północnej, będący eksklawą Stanów Zjednoczonych to:
@@ -46,7 +46,7 @@ Wspólna nazwa określająca kraje północno-zachodniej Afryki, m.in. Maroko, A
 
 
 
-Kategoria "Technologie", pytania dla ...:
+Kategoria "Technologie", pytania dla dmytro:
 Najpopularniejszym rozproszonym systemem kontroli wersji jest:
 
 System operacyjny, którego logiem jest "zielony robot" to:
