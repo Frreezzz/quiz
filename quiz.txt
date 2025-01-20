@@ -2,23 +2,19 @@ Narzędzia pracy zespołowej (NPZ) – quiz
 
 
 Kategoria "Matematyka", pytania dla anonim:
-20 + 4 * 4 = 
-36
 
-sin²α + cos²α = 
-1
+20 + 4 * 4 = 36
 
-2 * π ≈ 
-6.2832
+sin²α + cos²α = 1
 
-cos(90°) = 
-0
+2 * π ≈ 6.2832
 
-6! =  
-720
+cos(90°) = 0
 
-ln(1) = 
-0
+6! =  720
+
+ln(1) = 0
+
 
 
 Kategoria "Filmy", pytania dla kacper:
